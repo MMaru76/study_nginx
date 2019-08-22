@@ -14,7 +14,7 @@
 
 ## ディレクティブの基本的な説明
 
-[nginx](nginx/nginx_olg.conf) の基本的な説明ファイル
+[nginx](centos6_nginx/nginx/nginx_olg.conf) の基本的な説明ファイル
 
 - main ディレクティブ
 
