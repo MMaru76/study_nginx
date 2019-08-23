@@ -1,5 +1,9 @@
 # Nginx Study
 
+## 参考サイト
+
+- https://gist.github.com/kenjiskywalker/4698573
+
 ## 参考本
 
 - Nginx ポケットリファレンス
