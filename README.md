@@ -123,3 +123,5 @@ cd /etc/nginx/conf.d/
 |fastcgi_params|FastCGI設定|
 |scgi_params|SCGI設定|
 |uwsgi_params|uWSGI設定|
+
+test
